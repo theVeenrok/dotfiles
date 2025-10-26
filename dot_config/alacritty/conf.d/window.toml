@@ -1,0 +1,6 @@
+[window]
+padding.x = 8
+padding.y = 8
+dynamic_padding = false
+decorations = "full"
+opacity = 0.95

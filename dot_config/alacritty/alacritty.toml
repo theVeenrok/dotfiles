@@ -1,0 +1,10 @@
+[general]
+import = [
+  "conf.d/colors.toml",
+  "conf.d/cursor.toml",
+  "conf.d/fonts.toml",
+  "conf.d/keyboard.toml",
+  "conf.d/scrolling.toml",
+  "conf.d/window.toml",
+]
+live_config_reload = true
