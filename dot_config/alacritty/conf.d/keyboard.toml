@@ -3,8 +3,9 @@
 [keyboard]
 # Array of key bindings
 bindings = [
-  { key = "J",    mods = "Control|Shift", action = "ScrollPageUp"   },
-  { key = "K",    mods = "Control|Shift", action = "ScrollPageDown" },
-  { key = "C",    mods = "Control|Shift", action = "Copy"           },
-  { key = "V",    mods = "Control|Shift", action = "Paste"          },
+  { key = "J",    mods = "Control|Shift", action = "ScrollPageUp"       },
+  { key = "K",    mods = "Control|Shift", action = "ScrollPageDown"     },
+  { key = "C",    mods = "Control|Shift", action = "Copy"               },
+  { key = "V",    mods = "Control|Shift", action = "Paste"              },
+  { key = "N",    mods = "Control|Shift", action = "CreateNewWindow"    },
 ]
